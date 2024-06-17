@@ -75,7 +75,7 @@
         "instascan-v2": "^1.0.2",
         "is-wsl": "^1.1.0",
         "jdenticon": "^2.1.0",
-        "jest": "24.7.1",
+        "jest": "25.0.0",
         "jest-environment-jsdom-fourteen": "0.1.0",
         "jest-resolve": "24.7.1",
         "jest-watch-typeahead": "0.3.0",
